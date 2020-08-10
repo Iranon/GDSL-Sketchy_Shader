@@ -1,3 +1,7 @@
+/*==================================================
+	Copyright(C) - 2020 Matteo Vinci
+==================================================*/
+
 //Godot shader declaration
 shader_type spatial;
 render_mode ambient_light_disabled;
