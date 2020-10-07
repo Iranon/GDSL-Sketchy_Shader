@@ -1,4 +1,4 @@
-# GDSL-Sketchy_Shader
+# GDSL-Sketchy_Shader (Godot 3.2.1)
 #### Godot Shading Language (GLSL-like) porting of the Sketchy Shader (originally written in Open Shading Language)
 
 GDSL (Godot Shading Language) is similar to GLSL ES 3.0. Most datatypes and functions are supported.
